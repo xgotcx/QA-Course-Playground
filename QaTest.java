@@ -40,7 +40,7 @@ public class QaTest {
         WebElement passwordField
                 = this.driver
                 .findElement(By.xpath("/html/body/main/div[2]/div/div[3]/div/form/div[2]/div/input"));
-        passwordField.sendKeys("8zorito1");
+        passwordField.sendKeys("8lalibali1");
 
         WebElement loginButton
                 = this.driver
